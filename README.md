@@ -1,6 +1,7 @@
 # what-todo
-This is the documentation around a project I'm using as a vehicle to learn new languages and framework.  I'd like to build basically the same app although it may take different forms based on the language.  The app will be a ToDo app, which is familiar and has a reasonable amount of complexity.  This app must:
+This is the documentation around a project I'm using as a vehicle to learn new languages and framework.  I'd like to build basically the same app although it may take different forms based on the language.  The app will be a ToDo app, which is familiar and has a reasonable amount of complexity.  
 
+### Project Requirements:
 * Have a way to create new lists
 * Have a way to view all lists
 * Be able to display a single list
@@ -11,11 +12,12 @@ This is the documentation around a project I'm using as a vehicle to learn new l
 * Allow the user to edit the content of a task
 * Allow the user to delete tasks
 
-The languages/frameworks may or may not include one or more of the following (in no particular order):
+### Languages/Frameworks
+The following list are mediums I may or may not be considering (in no particular order):
 
-* [Django](https://docs.djangoproject.com)
-* [Python (without Django)](https://www.python.org/)
-* [Ruby on Rails](https://rubyonrails.org/)
+* [Django](https://docs.djangoproject.com) - this is what I'm most familiar with so I may start here as a baseline.
+* [Python (without Django)](https://www.python.org/) - I'm pretty comfortable here, perhaps I'll build a ToDo that isn't web-based.
+* [Ruby on Rails](https://rubyonrails.org/) - this framework is pretty close to Django, but I've never used it to build anything before.
 * [Vue.js](https://vuejs.org/)
 * [Swift](https://developer.apple.com/swift/)
 * [C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/)
