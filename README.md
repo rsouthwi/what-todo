@@ -32,3 +32,6 @@ The following list are mediums I may or may not be considering (in no particular
 * [F#](https://fsharp.org/)
 * [PureScript](https://www.purescript.org/)
 
+### Projects
+* [what-todo-django](https://github.com/rsouthwi/what-todo-django)
+* [what-todo-python](https://github.com/rsouthwi/what-todo-python)
